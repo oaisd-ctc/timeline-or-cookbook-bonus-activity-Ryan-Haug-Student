@@ -41,3 +41,7 @@ p{
 .headgap{
     margin: 5px;
 }
+
+#betalist{
+    column-count: 2;
+}
