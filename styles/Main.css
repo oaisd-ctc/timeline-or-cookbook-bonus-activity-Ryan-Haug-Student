@@ -1,0 +1,43 @@
+body{
+    background-color: lightslategrey;
+}
+
+#leftbar{
+    height: 800px;
+    width: 10px;
+    background-color: black;
+    float: left
+}
+
+.Seperator{
+    background-color: slategrey;
+    margin: 5px;
+    height: 5px;
+}
+
+header{
+    background-color: rgb(89, 102, 115);
+}
+
+#MainTimeline{
+    margin-left: 20px;
+}
+
+nav{
+    float: right;
+    font-size:20px;
+    margin-right: 10px;
+}
+
+h2{
+    margin: 10px;
+    margin-left: 0px;
+}
+
+p{
+    margin: 5px;
+}
+
+.headgap{
+    margin: 5px;
+}
